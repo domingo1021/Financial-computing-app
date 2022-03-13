@@ -1,2 +1,2 @@
 # Financial-computing-app
-Course project to build FX strategy
+Course project to build FX trading strategy
